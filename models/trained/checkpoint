@@ -1,0 +1,6 @@
+model_checkpoint_path: "/root/models/trained/model.ckpt-10000"
+all_model_checkpoint_paths: "/root/models/trained/model.ckpt-7207"
+all_model_checkpoint_paths: "/root/models/trained/model.ckpt-7994"
+all_model_checkpoint_paths: "/root/models/trained/model.ckpt-8786"
+all_model_checkpoint_paths: "/root/models/trained/model.ckpt-9581"
+all_model_checkpoint_paths: "/root/models/trained/model.ckpt-10000"
