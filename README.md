@@ -16,13 +16,13 @@
 
 **================================OUTPUT SAMPLES================================**
 
-![](op_images/op_video.gif?raw=true)
+![](SSD_V1/op_images/op_video.gif?raw=true)
 
-![](op_images/1.png?raw=true)
-![](op_images/2.png?raw=true)
-![](op_images/3.png?raw=true)
-![](op_images/4.png?raw=true)
-![](op_images/5.png?raw=true)
-![](op_images/6.png?raw=true)
+![](SSD_V1/op_images/1.png?raw=true)
+![](SSD_V1/op_images/2.png?raw=true)
+![](SSD_V1/op_images/3.png?raw=true)
+![](SSD_V1/op_images/4.png?raw=true)
+![](SSD_V1/op_images/5.png?raw=true)
+![](SSD_V1/op_images/6.png?raw=true)
 
 
