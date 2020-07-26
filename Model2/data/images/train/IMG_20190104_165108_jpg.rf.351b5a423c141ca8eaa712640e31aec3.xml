@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20190104_165108_jpg.rf.351b5a423c141ca8eaa712640e31aec3.jpg</filename>
+	<path>IMG_20190104_165108_jpg.rf.351b5a423c141ca8eaa712640e31aec3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arduino_Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>214</xmin>
+			<xmax>570</xmax>
+			<ymin>167</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

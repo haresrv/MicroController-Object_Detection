@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20190104_164240_jpg.rf.2cf08b7fc5731373f6e64daa4926cf5b.jpg</filename>
+	<path>IMG_20190104_164240_jpg.rf.2cf08b7fc5731373f6e64daa4926cf5b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry_Pi_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>774</xmax>
+			<ymin>94</ymin>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>
