@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20181228_103611_jpg.rf.a4279b12e414726f01e82a7d16e1b376.jpg</filename>
+	<path>IMG_20181228_103611_jpg.rf.a4279b12e414726f01e82a7d16e1b376.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heltec_ESP32_Lora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>250</xmax>
+			<ymin>213</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

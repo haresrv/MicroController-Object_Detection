@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20181228_102520_jpg.rf.0f87d7cf3f773fe06bce12c235cdf10b.jpg</filename>
+	<path>IMG_20181228_102520_jpg.rf.0f87d7cf3f773fe06bce12c235cdf10b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ESP8266</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>212</xmin>
+			<xmax>293</xmax>
+			<ymin>175</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
