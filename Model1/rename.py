@@ -18,7 +18,7 @@ import xml.dom.minidom as md
   
 def main(): 
     k=0
-    for i in glob.glob("data/images/train/*.xml"):
+    for i in glob.glob("data/images/test/*.xml"):
         
         file = md.parse(i) 
         fname = file.getElementsByTagName("filename")
