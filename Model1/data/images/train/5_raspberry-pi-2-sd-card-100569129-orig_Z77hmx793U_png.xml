@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>5_raspberry-pi-2-sd-card-100569129-orig_Z77hmx793U_png.rf.de3250ca3dd2d15cc40db4a324a60a75.jpg</filename>
-	<path>5_raspberry-pi-2-sd-card-100569129-orig_Z77hmx793U_png.rf.de3250ca3dd2d15cc40db4a324a60a75.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>5_raspberry-pi-2-sd-card-100569129-orig_Z77hmx793U_png.jpg</filename>
+	<path>5_raspberry-pi-2-sd-card-100569129-orig_Z77hmx793U_png.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>6_raspberry-pi-1-2-3-100656553-orig_toZxI1nVOS_jpg.rf.6dd05e67291fa17dc5292bca52eaf944.jpg</filename>
-	<path>6_raspberry-pi-1-2-3-100656553-orig_toZxI1nVOS_jpg.rf.6dd05e67291fa17dc5292bca52eaf944.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>6_raspberry-pi-1-2-3-100656553-orig_toZxI1nVOS_jpg.jpg</filename>
+	<path>6_raspberry-pi-1-2-3-100656553-orig_toZxI1nVOS_jpg.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

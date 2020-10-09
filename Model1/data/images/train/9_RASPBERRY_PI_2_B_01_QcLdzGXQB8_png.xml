@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>9_RASPBERRY_PI_2_B_01_QcLdzGXQB8_png.rf.a60c91acbb92263645e6daf7f845a279.jpg</filename>
-	<path>9_RASPBERRY_PI_2_B_01_QcLdzGXQB8_png.rf.a60c91acbb92263645e6daf7f845a279.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>9_RASPBERRY_PI_2_B_01_QcLdzGXQB8_png.jpg</filename>
+	<path>9_RASPBERRY_PI_2_B_01_QcLdzGXQB8_png.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

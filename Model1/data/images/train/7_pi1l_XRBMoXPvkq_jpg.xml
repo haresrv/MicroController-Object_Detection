@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>7_pi1l_XRBMoXPvkq_jpg.rf.6d8905fad3ef8666e5dda04277dedb68.jpg</filename>
-	<path>7_pi1l_XRBMoXPvkq_jpg.rf.6d8905fad3ef8666e5dda04277dedb68.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>7_pi1l_XRBMoXPvkq_jpg.jpg</filename>
+	<path>7_pi1l_XRBMoXPvkq_jpg.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

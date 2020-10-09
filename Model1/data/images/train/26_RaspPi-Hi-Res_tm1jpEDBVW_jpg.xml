@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>26_RaspPi-Hi-Res_tm1jpEDBVW_jpg.rf.3c39256c2d935c42f394f8395dbeec1e.jpg</filename>
-	<path>26_RaspPi-Hi-Res_tm1jpEDBVW_jpg.rf.3c39256c2d935c42f394f8395dbeec1e.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>26_RaspPi-Hi-Res_tm1jpEDBVW_jpg.jpg</filename>
+	<path>26_RaspPi-Hi-Res_tm1jpEDBVW_jpg.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

@@ -1,7 +1,7 @@
-<annotation>
-	<folder></folder>
-	<filename>3_Pi2ModB1GB_-comp_3oxF4OWXoF_jpeg.rf.65747cd7f8292e7c01e3fb7059d1ddea.jpg</filename>
-	<path>3_Pi2ModB1GB_-comp_3oxF4OWXoF_jpeg.rf.65747cd7f8292e7c01e3fb7059d1ddea.jpg</path>
+<?xml version="1.0" ?><annotation>
+	<folder/>
+	<filename>3_Pi2ModB1GB_-comp_3oxF4OWXoF_jpeg.jpg</filename>
+	<path>3_Pi2ModB1GB_-comp_3oxF4OWXoF_jpeg.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
