@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audio_jack_port</folder>
+	<filename>91.6-pin-3-5mm-Audio-Jack-Headphone-Port-Microphone-Socket-Connector-for-Asus-N550-Q550-Q550LF.jpg</filename>
+	<path>/home/haresrv/Downloads/Project/google-images-download-master/images/audio_jack_port/91.6-pin-3-5mm-Audio-Jack-Headphone-Port-Microphone-Socket-Connector-for-Asus-N550-Q550-Q550LF.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>305</ymin>
+			<xmax>802</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>
